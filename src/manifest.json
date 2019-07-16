@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Firefox Brand New Tab",
+    "version": "1.0",
+    "description": "Firefox Brand styled new tab page with clock and date.",
+    "background": {
+        "scripts": ["dayjs.js"]
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
