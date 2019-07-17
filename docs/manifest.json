@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "New Brand Tab",
+    "version": "1.0",
+    "description": "Firefox Brand styled new tab page with clock and date.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
