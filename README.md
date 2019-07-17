@@ -2,7 +2,7 @@
 
 ![Preview](preview.png)
 
-[Firefox Addon]()
+[Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/new-brand-tab/)
 
 This is a simple HTML page styled similar to [Firefox's new brand identity](https://mozilla.design/firefox/) that shows a clock and the date. It was a fun project to use my CSS skills and to learn a bit more about Firefox extensions.
 
