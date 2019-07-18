@@ -3,6 +3,8 @@
 ![Preview](preview.png)
 
 [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/new-brand-tab/)
+[Github Page](https://eleosos.github.io/firefox-brand-newtab/no-clock/)
+[Github PAge without clock and date](https://eleosos.github.io/firefox-brand-newtab/no-clock/)
 
 This is a simple HTML page styled similar to [Firefox's new brand identity](https://mozilla.design/firefox/) that shows a clock and the date. It was a fun project to use my CSS skills and to learn a bit more about Firefox extensions.
 
