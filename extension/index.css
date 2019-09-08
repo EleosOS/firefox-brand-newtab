@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Metropolis Black";
+    src: url("https://cdn.jsdelivr.net/gh/chrismsimpson/Metropolis/Webfonts/WOFF2/Metropolis-Black.woff2") format("woff2");
+}
 
 :root {
     --bg-color: #2B1141;
@@ -63,4 +67,21 @@ body {
     position: absolute;
     top: 20%;
     left: 10%;
+}
+
+p {
+    color: var(--text-color);
+    font-family: "Metropolis Black";
+}
+
+#clock {
+    font-size: 4rem;
+    line-height: 72px;
+}
+
+#date {
+    margin-top: -40px;
+    font-size: 2rem;
+    line-height: 36px;
+    max-width: 650px;
 }
